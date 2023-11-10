@@ -1,5 +1,5 @@
 {
-  "name": "techdot",
+  "name": "govindsinghdhall",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanattaori/techdot.git"
+    "url": "git+https://github.com/govindsinghdhall/611project2023.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sanattaori/techdot/issues"
+    "url": "https://github.com/govindsinghdhall/611Project2023/issues"
   },
-  "homepage": "https://github.com/sanattaori/techdot#readme"
+  "homepage": "https://github.com/govindsinghdhall/611Project2023#readme"
 }
